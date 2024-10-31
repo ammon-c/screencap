@@ -1,0 +1,9 @@
+*.bak
+*.obj
+*.exe
+*.lib
+*.pdb
+*.ilk
+tes*.mp4
+frame*.bmp
+TODO
